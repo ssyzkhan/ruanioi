@@ -1,5 +1,14 @@
 {
     "files.associations": {
-        "string": "cpp"
-    }
+        "string": "cpp",
+        "iterator": "cpp",
+        "iostream": "cpp",
+        "heap.h": "c",
+        "swap.h": "c",
+        "array": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "limits": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }

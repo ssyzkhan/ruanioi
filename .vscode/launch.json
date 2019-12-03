@@ -5,6 +5,146 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - p141319",
+            "request": "launch",
+            "mainClass": "p141319",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p132315",
+            "request": "launch",
+            "mainClass": "p132315",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p12138",
+            "request": "launch",
+            "mainClass": "p12138",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p105240",
+            "request": "launch",
+            "mainClass": "p105240",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p104239",
+            "request": "launch",
+            "mainClass": "p104239",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p94332",
+            "request": "launch",
+            "mainClass": "p94332",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p88225",
+            "request": "launch",
+            "mainClass": "p88225",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p78220",
+            "request": "launch",
+            "mainClass": "p78220",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p68211",
+            "request": "launch",
+            "mainClass": "p68211",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p51142",
+            "request": "launch",
+            "mainClass": "p51142",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p44136",
+            "request": "launch",
+            "mainClass": "p44136",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p30125",
+            "request": "launch",
+            "mainClass": "p30125",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test136",
+            "request": "launch",
+            "mainClass": "test136",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p43135",
+            "request": "launch",
+            "mainClass": "p43135",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p41133",
+            "request": "launch",
+            "mainClass": "p41133",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p5924",
+            "request": "launch",
+            "mainClass": "p5924",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p3102",
+            "request": "launch",
+            "mainClass": "p3102",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "algorithm.java.Hello",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
             "name": "g++.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
