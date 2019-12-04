@@ -35,7 +35,10 @@ T deQueue(){
 bool empty(){
     return heapSize<1;
 }
+void fix(){
+    make_heap(heap.begin(),heap.end(),Comparator());
+}
 };
 
 
-#endif
+#endif /* _QUEUE_H */

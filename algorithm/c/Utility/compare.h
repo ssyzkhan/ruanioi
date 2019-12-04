@@ -1,4 +1,5 @@
 #include<string.h>
+#include"../DataStructure/bintree.h"
 #ifndef _COMPARE_H
 #define _COMPARE_H
 int intGreater(void *x, void *y){
@@ -43,6 +44,13 @@ int treeLess(void *x,void *y){
     if((*(BinaryTree**)x)->key<(*(BinaryTree**)y)->key)
         return 1;
     if((*(BinaryTree**)x)->key>(*(BinaryTree**)y)->key)
+        return -1;
+    return 0;
+}
+int dblLess(void *x,void *y){
+    if((**(double**)x)<(**(double**)y))
+        return 1;
+    if((**(double**)x)<(**(double**)y))
         return -1;
     return 0;
 }

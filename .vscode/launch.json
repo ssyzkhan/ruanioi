@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - p195428",
+            "request": "launch",
+            "mainClass": "p195428",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - p180417",
+            "request": "launch",
+            "mainClass": "p180417",
+            "projectName": "ruanioi_dc97c5ee"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - p16346",
             "request": "launch",
             "mainClass": "p16346",

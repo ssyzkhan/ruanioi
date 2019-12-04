@@ -44,4 +44,9 @@ void pqueueClear(priorityQueue *q){
     q->heap=NULL;
     q->heapSize=q->length=0;
 }
+void fix(priorityQueue *q,int size,int(*compare)(void *,void *)){
+    int i;
+    for(i=q->heapSize/2;i>=0;i--)
+        heapify(q->heap,size,i,q->heapSize,compare);
+}
 #endif /* _QUEUE_H */
